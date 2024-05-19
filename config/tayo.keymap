@@ -29,7 +29,7 @@
                 &trans            &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans                &trans   &trans   &trans
                 &trans            &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &kp BSPC   &kp BSPC   &trans   &trans   &trans
                 &trans            &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &kp BSLH              &trans   &trans   &trans
-                kp CLCK           &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans
+                &kp CLCK          &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans
                 &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans                         &trans   &trans   &trans
                 &trans   &trans   &trans                              &trans            &trans   &trans   &trans   &trans                                           &trans   &trans   &trans
             >;
