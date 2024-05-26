@@ -44,8 +44,8 @@
         shortcuts {
             bindings = <
                 &trans            &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &trans                  &trans   &trans   &trans
-                &kp CLCK          &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSLH   &kp DELETE   &trans   &trans   &trans
-                &trans            &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSPC                &trans   &trans   &trans
+                &trans          &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSLH   &kp DELETE   &trans   &trans   &trans
+                &kp CLCK            &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans   &kp BSPC                &trans   &trans   &trans
                 &kp LCTRL         &kp C_VOL_UP   &kp C_VOL_DN   &kp C_MUTE   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans           &trans
                 &trans   &trans   &trans         &trans         &trans       &trans   &trans   &trans   &trans   &trans   &trans   &trans   &mo BLUETOOTH    &trans                           &trans   &trans   &trans
                 &trans   &trans   &trans                                              &trans            &trans   &trans   &trans   &trans                                             &trans   &trans   &trans
