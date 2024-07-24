@@ -2,12 +2,12 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: rizalfr
-      url-base: https://github.com/rizalfr
+    - name: edysantosa
+      url-base: https://github.com/edysantosa
   projects:
     - name: zmk
-      remote: rizalfr
-      revision: core/zephyr-v3
+      remote: edysantosa
+      revision: core/zephyr-v3-edy
       import: app/west.yml
   self:
     path: config
