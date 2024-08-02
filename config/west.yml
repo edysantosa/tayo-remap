@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: edysantosa
-      revision: core/zephyr-v3-edy
+      revision: core/zephyr-v3
       import: app/west.yml
   self:
     path: config
